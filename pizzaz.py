@@ -1,5 +1,3 @@
-# Name: Xu Wang
-# unikey: xwan7005
 
 import sys
 
