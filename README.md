@@ -1,6 +1,3 @@
-# Name: Xu Wang
-# unikey: xwan7005
-
 
 #1. Store data:
 
